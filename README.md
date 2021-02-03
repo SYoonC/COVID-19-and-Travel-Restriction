@@ -73,14 +73,14 @@ And those countries to be included are ;
 
 <H3>Object 1 : Product</H3>
 Create a product
--	A website which is compatible with both PC and Mobile using HTML, CSS and JAVA
+* A website which is compatible with both PC and Mobile using HTML, CSS and JAVA
 Or / And
--	A mobile app which is compatible with both Android and Apple using ReactNative
+* A mobile app which is compatible with both Android and Apple using ReactNative
 
 <H3>Object 2 : Countries</H3>
 Countries will be trimmed down by a criteria
--	Top 150 Countries out of 223 countries from the list with the most passenger traffic
-o	https://aci.aero/Data-Centre/
+* Top 150 Countries out of 223 countries from the list with the most passenger traffic
+* https://aci.aero/Data-Centre/
 
 <H3>Object 3 : Data for Data Visualisation</H3>
 Collection of correct data regarding Data Visualisation
