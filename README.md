@@ -198,16 +198,19 @@ This will be only interactive when it comes to
 *	Selection of vaccinated or not
   
 *	etc
+
 .
+
 Based on the interaction above the product will tell whether the user can visit the country or not.
+
 The data will however display every border control information of the country of visit which will be 
+
+*	Every data from Object 4 in a table
   
 *	Answer to the user’s visit
+
+    *	*Yes you can enter the country
   
-  *	Yes you can enter the country
+    *	*No you cannot enter the country
   
-  *	No you cannot enter the country
-  
-  *	Maybe you’ll be subject to your purpose
-  
-*	Every data from Object 4 in a table
+    *	*Maybe you’ll be subject to your purpose
