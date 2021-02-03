@@ -73,88 +73,153 @@ And those countries to be included are ;
 
 <H3>Object 1 : Product</H3>
 Create a product
+
 * A website which is compatible with both PC and Mobile using HTML, CSS and JAVA
+
 Or / And
+
 * A mobile app which is compatible with both Android and Apple using ReactNative
 
 <H3>Object 2 : Countries</H3>
 Countries will be trimmed down by a criteria
+
 * Top 150 Countries out of 223 countries from the list with the most passenger traffic
-* https://aci.aero/Data-Centre/
+
+  * https://aci.aero/Data-Centre/
 
 <H3>Object 3 : Data for Data Visualisation</H3>
 Collection of correct data regarding Data Visualisation
--	Data by country
-o	COVID-19 Infection number (confirmed)
-o	COVID-19 Death Number
-o	COVID-19 Cured Number
-o	COVID-19 Vaccinated number
-o	COVID-19 Vaccination Plan (?)
--	Data source
-o	https://covid19.who.int/
-o	Data protection ; can this data be used for education purpose?
-	Need further clarification
--	Tools
-o	Python for data scrapping
-o	Python for data cleansing
+
+*	Data by country
+
+  * COVID-19 Infection number (confirmed)
+  
+  *	COVID-19 Death Number
+  
+  *	COVID-19 Cured Number
+  
+  *	COVID-19 Vaccinated number
+  
+  *	COVID-19 Vaccination Plan (?)
+  
+*	Data source
+  
+  *	https://covid19.who.int/
+  
+  *	Data protection ; can this data be used for education purpose?
+  
+    *	Need further clarification
+  
+*	Tools
+  
+  *	Python for data scrapping
+  
+  *	Python for data cleansing
 
 <H3>Object 4 : Data for Border Control</H3>
 Collection of correct data regarding Border Control
--	Data by Country
-o	Who can enter?
-	Visa holders?
-	Residents?
-	Travellers?
-	Business?
-	Etc
-o	PCR Test needed?
-	Prior to arrival?
-	Post arrival?
-o	Prior declaration needed?
-	Passenger locator form?
-	Health declaration form?
-	App installation?
-o	Quarantine needed?
-	How long?
-	Accommodation provided?
-•	How much?
-o	Etc
--	Data source
-o	Each country’s Foreign Ministry Official Website
-o	https://www.kayak.com/travel-restrictions
--	Tools
-o	Python for data scrapping
-o	Python for data cleansing
+  
+*	Data by Country
+  
+  *	Who can enter?
+  
+    *	Visa holders?
+  
+    *	Residents?
+  
+    *	Travellers?
+  
+    *	Business?
+  
+    *	Etc
+  
+  *	PCR Test needed?
+  
+    *	Prior to arrival?
+  
+    *	Post arrival?
+  
+  *	Prior declaration needed?
+  
+    *	Passenger locator form?
+  
+    *	Health declaration form?
+  
+    *	App installation?
+  
+  *	Quarantine needed?
+  
+    *	How long?
+  
+    *	Accommodation provided?
+  
+      *	How much?
+  
+    *	Etc
+  
+  *	Data source
+  
+    *	Each country’s Foreign Ministry Official Website
+  
+    *	https://www.kayak.com/travel-restrictions
+  
+  *	Tools
+  
+    *	Python for data scrapping
+  
+    *	Python for data cleansing
 
 <H3>Object 5 : Display of Data Visualisation</H3>
 This will be only interactive when it comes to 
--	Comparison
--	Country choice
+  
+*	Comparison
+  
+*	Country choice
 .
 COVID-19 data from Object 3 will be processed and displayed as below
--	Data Processing
-o	COVID-19 Active cases
-o	COVID-19 Vaccination rate
--	Data Display
-o	Display all available data into a table
-o	Choice of a country to view can be made by
-	Selecting from a map (image)
-	Searching for the country (typing)
-o	Comparison of maximum 2 choices of country
-	Display two table juxtaposed
+  
+*	Data Processing
+  
+  *	COVID-19 Active cases
+  
+  *	COVID-19 Vaccination rate
+  
+*	Data Display
+  
+  *	Display all available data into a table
+  
+  *	Choice of a country to view can be made by
+  
+    *	Selecting from a map (image)
+  
+    *	Searching for the country (typing)
+  
+  *	Comparison of maximum 2 choices of country
+  
+    *	Display two table juxtaposed
 
 <H3>Object 6 : Display of Border Control</H3>
 This will be only interactive when it comes to
--	Selection of a country the user is intending to visit
--	Selection of a country of residence and visa holding of the user
--	Selection of symptoms of the user
--	Selection of vaccinated or not
--	etc
+  
+*	Selection of a country the user is intending to visit
+  
+*	Selection of a country of residence and visa holding of the user
+  
+*	Selection of symptoms of the user
+  
+*	Selection of vaccinated or not
+  
+*	etc
 .
 Based on the interaction above the product will tell whether the user can visit the country or not.
 The data will however display every border control information of the country of visit which will be 
--	Answer to the user’s visit
-o	Yes you can enter the country
-o	No you cannot enter the country
-o	Maybe you’ll be subject to your purpose
--	Every data from Object 4 in a table
+  
+*	Answer to the user’s visit
+  
+  *	Yes you can enter the country
+  
+  *	No you cannot enter the country
+  
+  *	Maybe you’ll be subject to your purpose
+  
+*	Every data from Object 4 in a table
