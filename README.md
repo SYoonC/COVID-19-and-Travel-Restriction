@@ -106,9 +106,7 @@ Collection of correct data regarding Data Visualisation
   
   *	https://covid19.who.int/
   
-  *	Data protection ; can this data be used for education purpose?
-  
-    *	Need further clarification
+  *	Data protection ; can this data be used for education purpose? (Need further clarification)
   
 *	Tools
   
@@ -118,9 +116,7 @@ Collection of correct data regarding Data Visualisation
 
 <H3>Object 4 : Data for Border Control</H3>
 Collection of correct data regarding Border Control
-  
-*	Data by Country
-  
+    
   *	Who can enter?
   
     *	Visa holders?
@@ -152,8 +148,6 @@ Collection of correct data regarding Border Control
     *	How long?
   
     *	Accommodation provided?
-  
-      *	How much?
   
     *	Etc
   
@@ -188,15 +182,9 @@ COVID-19 data from Object 3 will be processed and displayed as below
   
   *	Display all available data into a table
   
-  *	Choice of a country to view can be made by
-  
-    *	Selecting from a map (image)
-  
-    *	Searching for the country (typing)
+  *	Choice of a country to view can be made by Selecting from a map (image) or Searching for the country (typing)
   
   *	Comparison of maximum 2 choices of country
-  
-    *	Display two table juxtaposed
 
 <H3>Object 6 : Display of Border Control</H3>
 This will be only interactive when it comes to
