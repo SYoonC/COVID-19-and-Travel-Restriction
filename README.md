@@ -209,8 +209,8 @@ The data will however display every border control information of the country of
   
 *	Answer to the user’s visit
 
-    *	*Yes you can enter the country
+    *	*Yes you can enter the country*
   
-    *	*No you cannot enter the country
+    *	*No you cannot enter the country*
   
-    *	*Maybe you’ll be subject to your purpose
+    *	*Maybe you’ll be subject to your purpose*
